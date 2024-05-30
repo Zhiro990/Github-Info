@@ -299,5 +299,3 @@ let githubinfo = new GitHubInfo("YOUR_GITHUB_TOKEN");
 
 > * `file`
 > * `dir`
-
-<h5 align="center"> Created with ❤ by Zhiro990 </h5>
